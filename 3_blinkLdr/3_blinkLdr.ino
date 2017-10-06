@@ -27,6 +27,10 @@ void loop()
 	// salvando o valor da porta A0, que esta o LDR na variavel ldrValue
 	int ldrValue = analogRead(A0);
 
+	// imprime na tela serial o valor lido do LDR
+	Serial.print("Valor lido: ");
+	Serial.println(ldrValue);
+
 	// Vendo se o ldrValue esta dentro ou nao do threshold para ativar o led
 	if(ldrValue >= threshold)
 	{
