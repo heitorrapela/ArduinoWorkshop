@@ -28,4 +28,9 @@ Ou pelo <a href="https://play.google.com/store/apps/details?id=braulio.calle.blu
 
 Ou pelo <a href="https://play.google.com/store/apps/details?id=Qwerty.BluetoothTerminal/">link</a>
 
+<br>
+<br>
 
+### Apresentação
+
+https://docs.google.com/presentation/d/148U-HIEoLHCwF-_J8OlHOCIFA8367BgXCdXU_RDCpA0/edit?usp=sharing
