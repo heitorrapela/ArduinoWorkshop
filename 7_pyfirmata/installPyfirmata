@@ -1,0 +1,8 @@
+// Instalando o pyfirmata com conda
+conda install -c auto pyfirmata 
+
+// Instalando com o pip
+pip install pyfirmata
+
+
+https://pypi.python.org/pypi/pyFirmata
